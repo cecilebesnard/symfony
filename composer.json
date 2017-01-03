@@ -1,0 +1,15 @@
+{
+    "name": "root/sites",
+    "authors": [
+        {
+            "name": "Cecile Besnard",
+            "email": "toto@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload" : {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
